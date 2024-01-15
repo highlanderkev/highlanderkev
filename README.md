@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## Links:
-
 ## Contact Info
 - 📫 How to reach me:
   - Email: mail@highlanderkev.dev

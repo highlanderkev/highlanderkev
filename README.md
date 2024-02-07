@@ -3,7 +3,7 @@
 ## Contact Info
 - 📫 How to reach me:
   - Email: mail@highlanderkev.dev
-  - Linkedin: https://www.linkedin.com/in/kevinpatrickwestropp/
+  - Linkedin: https://www.linkedin.com/in/kevinwestropp/
 
 <!--
 **highlanderkev/highlanderkev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

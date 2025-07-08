@@ -3,6 +3,7 @@
 ## Contact Info
 - 📫 How to reach me:
   - Email: highlanderkev@proton.me
+  - Website: https://kevinpatrickwestropp.com/
   - Linkedin: https://www.linkedin.com/in/kevinwestropp/
 
 <!--

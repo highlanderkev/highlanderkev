@@ -2,7 +2,7 @@
 
 ## Contact Info
 - 📫 How to reach me:
-  - Email: mail@highlanderkev.dev
+  - Email: highlanderkev@proton.me
   - Linkedin: https://www.linkedin.com/in/kevinwestropp/
 
 <!--

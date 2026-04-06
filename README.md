@@ -5,6 +5,7 @@
   - Email: highlanderkev@proton.me
   - Website: https://kevinpatrickwestropp.com/
   - Linkedin: https://www.linkedin.com/in/kevinwestropp/
+  - Portfolio: https://highlanderkev.dev/
 
 <!--
 **highlanderkev/highlanderkev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

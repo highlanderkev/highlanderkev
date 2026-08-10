@@ -1,23 +1,56 @@
-### Hi there 👋
+<div align="center">
 
-## Contact Info
-- 📫 How to reach me:
-  - Email: highlanderkev@proton.me
-  - Website: https://kevinpatrickwestropp.com/
-  - Linkedin: https://www.linkedin.com/in/kevinwestropp/
-  - Portfolio: https://highlanderkev.dev/
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kevin+%F0%9F%91%8B;Full-Stack+Developer;Building+AI+agents+%2B+dev+tools;Welcome+to+my+terminal..." alt="Typing SVG" />
 
-<!--
-**highlanderkev/highlanderkev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+```bash
+$ whoami
+```
+Kevin Patrick Westropp (highlanderkev) — Developer based in the United States
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+$ ls ~/tech-stack
+```
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+```bash
+$ ls ~/featured-projects
+```
+- KeySafe — Next.js app for managing API keys, password-manager style
+- investing-agents — A2A server for investment strategy
+- ai-explorer — Dart-based AI exploration tool
+- covid-map — JavaScript COVID data visualization
+- obsidian-claude-connector — Unofficial extension connecting Claude to a local Obsidian vault
+- rando_app — the most random of apps
+
+```bash
+$ cat contact.txt
+```
+Email: highlanderkev@proton.me
+Website: https://kevinpatrickwestropp.com/
+LinkedIn: https://www.linkedin.com/in/kevinwestropp/
+Portfolio: https://highlanderkev.dev/
+
+```bash
+$ ./show-stats.sh
+```
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=highlanderkev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=highlanderkev&theme=chartreuse-dark&hide_border=true&background=000000)
+
+</div>
+
+```bash
+$ echo "Thanks for stopping by!"
+```

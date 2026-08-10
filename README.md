@@ -46,8 +46,8 @@ $ ./show-stats.sh
 ```
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=highlanderkev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=highlanderkev&theme=chartreuse-dark&hide_border=true&background=000000)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=highlanderkev&theme=github_dark" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=highlanderkev&theme=github_dark" alt="Most Commit Language" />
 
 </div>
 

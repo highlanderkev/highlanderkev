@@ -27,10 +27,10 @@ $ ls ~/tech-stack
 $ ls ~/featured-projects
 ```
 - [AI-Explorer.org](https://ai-explorer.org/) - Website Dedicated to Exploring and Learning about AI
-- obsidian-claude-connector — Unofficial extension connecting Claude to a local Obsidian vault
-- investing-agents — A2A server for investment strategy
-- covid-map — JavaScript COVID data visualization
-- rando_app — the most random of apps
+- [obsidian-claude-connector](https://github.com/highlanderkev/obsidian-claude-connector) — Unofficial extension connecting Claude to a local Obsidian vault
+- [investing-agents](https://github.com/highlanderkev/investing-agents) — A2A server for investment strategy
+- [covid-map](https://github.com/highlanderkev/covid-map) — JavaScript COVID data visualization
+- [rando_app](https://github.com/highlanderkev/rando_app) — the most random of apps
 
 ```bash
 $ cat contact.txt

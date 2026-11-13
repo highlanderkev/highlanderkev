@@ -26,11 +26,10 @@ $ ls ~/tech-stack
 ```bash
 $ ls ~/featured-projects
 ```
-- KeySafe — Next.js app for managing API keys, password-manager style
-- investing-agents — A2A server for investment strategy
-- ai-explorer — Dart-based AI exploration tool
-- covid-map — JavaScript COVID data visualization
+- [AI-Explorer.org](https://ai-explorer.org/) - Website Dedicated to Exploring and Learning about AI
 - obsidian-claude-connector — Unofficial extension connecting Claude to a local Obsidian vault
+- investing-agents — A2A server for investment strategy
+- covid-map — JavaScript COVID data visualization
 - rando_app — the most random of apps
 
 ```bash
